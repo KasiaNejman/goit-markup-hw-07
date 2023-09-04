@@ -1,1 +1,1 @@
-https://kasianejman.github.io/goit-markup-hw-07/
+https://kasianejman.github.io/goit-markup-hw-06/
