@@ -331,7 +331,7 @@ body {
   letter-spacing: 0.4px;
   color: var(--SLATE, #434455);
 }
-.sm-mobile {
+.social-mobile {
   display: flex;
   max-width: 328px;
   margin-top: 48px;
@@ -1167,4 +1167,10 @@ p {
 .icon-subscribe {
   width: 24px;
   height: 24px;
+}
+.link-header {
+  text-decoration: none;
+  color: var(--navy-blue);
+  letter-spacing: 0.02em;
+  transition-property: color;
 }
